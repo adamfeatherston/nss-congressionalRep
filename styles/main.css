@@ -1,0 +1,39 @@
+.pageHeader{
+    font-style: inherit;
+    font-size: xx-large;
+    font: bold;
+    color: rgb(13, 54, 175);
+    display: flex;
+    justify-content: center;
+    background-color:lightgray 
+}
+.repInfo{
+    display: flex;
+    justify-content: center;
+    margin-top: 2.5em;
+}
+.basicInfo{
+    font-size: x-large;
+    color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+}
+.committees{
+    font-size: large;
+    color: #b75b39;
+    display: flex;
+    justify-content: center;
+    margin-left: 20em;
+    margin-right: 20em;
+}
+.legislation{
+    font-size: large;
+    color: slateblue;
+    display: flex;
+    justify-content: center;
+    border: 1px solid slategray;
+    margin-left: 20em;
+    margin-right: 20em;
+}
